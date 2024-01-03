@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Program_2_factorial {
 	public static void main(String[] args) {
-		// factorial of the number
+		// factorial of the number!!!
 
 		int a, b, fact = 1;
 
