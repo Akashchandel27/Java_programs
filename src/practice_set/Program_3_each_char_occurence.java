@@ -6,7 +6,8 @@ public class Program_3_each_char_occurence {
 
 	public static void main(String[] args) {
 
-		String s1 = "akash chandel";
+		
+String s1 = "akash chandel";
 
 		HashMap<Character, Integer> map = new HashMap<>();
 
