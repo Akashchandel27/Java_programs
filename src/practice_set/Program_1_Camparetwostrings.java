@@ -2,7 +2,6 @@ package practice_set;
 import java.util.Scanner;
 public class Program_1_Camparetwostrings {
 
-
 	public static void main(String[] args) {
 		
 		// take two strings s1 and s2
